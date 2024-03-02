@@ -44,5 +44,5 @@ Puede entrecomillar texto utilizando >.
 
 Texto que no es una cita.
 
-> Text that is a quote
+> Texto que no es una cita.
 Al texto entre comillas se le ha aplicado sangría y tiene un color de tipo diferente.
