@@ -31,5 +31,5 @@ Crea un directorio o subdirectorio. Las extensiones de comandos, que están habi
 
 Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
 
-
+Negrita: Para texto en negrita, se utiliza doble asterisco (**) o doble guion bajo (__):
     
