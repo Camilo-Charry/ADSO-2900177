@@ -23,7 +23,7 @@ Crea un directorio o subdirectorio. Las extensiones de comandos, que están habi
 
     md \Taxes\Property\Current
     
-##Para crear el árbol de directorios Taxes\Property\Current dentro del directorio raíz como en el ejemplo anterior, pero con las extensiones de comando deshabilitadas, escriba la siguiente secuencia de comandos:
+## Para crear el árbol de directorios Taxes\Property\Current dentro del directorio raíz como en el ejemplo anterior, pero con las extensiones de comando deshabilitadas, escriba la siguiente secuencia de comandos:
     md \Taxes
     md \Taxes\Property
     md \Taxes\Property\Current
