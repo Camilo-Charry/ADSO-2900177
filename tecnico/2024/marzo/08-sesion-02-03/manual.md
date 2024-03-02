@@ -62,5 +62,5 @@ Captura de pantalla de GitHub  en la que se muestra la apariencia de los caracte
 | git commit                    |
 
 ## Modelos de color compatibles
-En los problemas, las solicitudes de incorporación de cambios y los debates, puedes llamar a los colores dentro de una oración mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
+En los problemas, las solicitudes de incorporación de cambios en los detalles, puedes llamar a los colores dentro de una frase u oracion mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
 
