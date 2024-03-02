@@ -52,3 +52,5 @@ Puedes indicar un código o un comando dentro de un enunciado con comillas simpl
 
 Use `git status`para enumerar todos los archivos nuevos o modificados que aún no se han confirmado.
 Captura de pantalla de GitHub  en la que se muestra la apariencia de los caracteres rodeados por acentos graves. Las palabras "git status" **aparecen en un tipo de letra de ancho fijo, resaltado en gris claro.**
+
+## Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
