@@ -54,3 +54,10 @@ Use `git status`para enumerar todos los archivos nuevos o modificados que aún n
 Captura de pantalla de GitHub  en la que se muestra la apariencia de los caracteres rodeados por acentos graves. Las palabras "git status" **aparecen en un tipo de letra de ancho fijo, resaltado en gris claro.**
 
 ## Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
+
+| Some basic Git commands are: |
+|-------------------------------|
+| git status                    |
+| git add                       |
+| git commit                    |
+
