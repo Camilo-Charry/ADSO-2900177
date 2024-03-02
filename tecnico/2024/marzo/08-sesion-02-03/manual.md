@@ -42,7 +42,7 @@ Crea un directorio o subdirectorio. Las extensiones de comandos, que están habi
 ## Entrecomillado de texto
 Puede entrecomillar texto utilizando >.
 
-Text that is not a quote
+Texto que no es una cita.
 
 > Text that is a quote
 Al texto entre comillas se le ha aplicado sangría y tiene un color de tipo diferente.
