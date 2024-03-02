@@ -1,4 +1,4 @@
-## Hola Mundo
+## Manual
 
 Crea un directorio o subdirectorio. Las extensiones de comandos, que están habilitadas de forma predeterminada, permiten usar un único comando md para crear directorios intermedios en una ruta de acceso especificada.
 
