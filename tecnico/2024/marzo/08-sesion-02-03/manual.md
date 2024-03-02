@@ -27,3 +27,9 @@ Crea un directorio o subdirectorio. Las extensiones de comandos, que están habi
     md \Taxes
     md \Taxes\Property
     md \Taxes\Property\Current
+## Estilos de texto
+
+Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
+
+
+    
