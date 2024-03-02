@@ -42,8 +42,7 @@ Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice 
 | Superscript                  | <sup> </sup>  | Ninguno                               | This is a <sup>superscript</sup> text      | Se trata de un texto de superíndice     |
 
 
-
-    ## Entrecomillado de texto
+## Entrecomillado de texto
 Puede entrecomillar texto con >.
 
 Text that is not a quote
