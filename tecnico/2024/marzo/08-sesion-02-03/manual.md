@@ -55,7 +55,7 @@ Captura de pantalla de GitHub  en la que se muestra la apariencia de los caracte
 
 ## Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
 
-| Some basic Git commands are: |
+|Algunos comandos básicos de Git son: |
 |-------------------------------|
 | git status                    |
 | git add                       |
