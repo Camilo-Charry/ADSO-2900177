@@ -40,7 +40,7 @@ Crea un directorio o subdirectorio. Las extensiones de comandos, que están habi
 
 
 ## Entrecomillado de texto
-Puede entrecomillar texto con >.
+Puede entrecomillar texto utilizando >.
 
 Text that is not a quote
 
