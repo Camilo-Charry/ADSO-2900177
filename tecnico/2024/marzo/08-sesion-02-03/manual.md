@@ -50,5 +50,5 @@ Al texto entre comillas se le ha aplicado sangría y tiene un color de tipo dife
 ## Código de cita
 Puedes indicar un código o un comando dentro de un enunciado con comillas simples. El texto dentro de las comillas simples no será formateado o cambiado. También puedes presionar el método poniendo en teclado Comando+E (Mac) o Ctrl+E (Windows o Linux) para insertar las comillas simples de bloque de código en una línea.
 
-Use `git status` to list all new or modified files that haven't yet been committed.
-Captura de pantalla de GitHub Markdown en la que se muestra la apariencia de los caracteres rodeados por acentos graves. Las palabras "git status" aparecen en un tipo de letra de ancho fijo, resaltado en gris claro.
+Use `git status`para enumerar todos los archivos nuevos o modificados que aún no se han confirmado.
+Captura de pantalla de GitHub  en la que se muestra la apariencia de los caracteres rodeados por acentos graves. Las palabras "git status" aparecen en un tipo de letra de ancho fijo, resaltado en gris claro.
