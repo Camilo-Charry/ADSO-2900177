@@ -87,7 +87,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer.
 
-!.](img.jpg)
+!![image](https://github.com/Camilo-Charry/ADSO-2900177/assets/161945579/edc8a3b0-c552-46a0-9493-0698074cd981)
+
 
 
 
