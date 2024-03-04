@@ -66,3 +66,12 @@ En los problemas, las solicitudes de incorporación de cambios en los detalles, 
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+## Estos son los modelos de color admitidos actualmente.
+
+| Color | Sintaxis | Ejemplo | Resultados |
+|-------|----------|---------|------------|
+| Color hexadecimal (HEX)   | \`#RRGGBB\` | \`#0969DA\` | ![Captura de pantalla del color hexadecimal](ruta/a/la/imagen/hex.png) |
+| Color en RGB   | \`rgb(R,G,B)\` | \`rgb(9, 105, 218)\` | ![Captura de pantalla del color en RGB](ruta/a/la/imagen/rgb.png) |
+| Color en HSL   | \`hsl(H,S,L)\` | \`hsl(212, 92%, 45%)\` | ![Captura de pantalla del color en HSL](ruta/a/la/imagen/hsl.png) |
+
+
