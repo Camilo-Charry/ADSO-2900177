@@ -94,7 +94,9 @@ Puede vincular directamente a una sección en un archivo representado si desliza
 Puedes especificar enlaces relativos y rutas de imagen en los archivos presentados para ayudar a que los lectores se dirijan a otros archivos de tu repositorio.
 Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, si tiene un archivo Léame en la raíz del repositorio y tiene otro archivo en docs/CONTRIBUTING.md, el vínculo relativo a CONTRIBUTING.md en el archivo Léame podría tener este aspecto:
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+| [Contribution guidelines for this project](docs/CONTRIBUTING.md) |
+|-----------------------------------------------------------------|
+
 
 
 
