@@ -99,6 +99,19 @@ Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, 
 
 
 
+## Aquí tienes el texto con las palabras cambiadas:
+
+"GitHub automáticamente ajustará el enlace relativo o la ruta de la imagen en cualquier rama en la que te encuentres actualmente, asegurando que el enlace o la ruta siempre sean válidos. La ruta del enlace será relativa al archivo actual. Los enlaces que comiencen con / serán relativos a la raíz del repositorio. Puedes utilizar todos los operadores de enlace relativos, como ./ y ../.
+
+Los enlaces relativos son más convenientes para los usuarios que clonan tu repositorio. Los enlaces absolutos pueden no funcionar en los clones de tu repositorio. Se recomienda utilizar enlaces relativos para acceder a los archivos dentro de tu repositorio."
+
+
+
+
+
+
+
+
 
 
 
