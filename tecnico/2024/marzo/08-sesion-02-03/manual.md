@@ -112,6 +112,8 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 ## EJEMPLO
 ![image](https://github.com/Camilo-Charry/ADSO-2900177/assets/161945579/2840cd25-7352-40ff-9ca9-6d4feea75762)
 
+GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+
 
 
 
