@@ -105,6 +105,14 @@ Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, 
 
 Los enlaces relativos son más convenientes para los usuarios que clonan tu repositorio. Los enlaces absolutos pueden no funcionar en los clones de tu repositorio. Se recomienda utilizar enlaces relativos para acceder a los archivos dentro de tu repositorio."
 
+## Imágenes
+
+Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imagen. Luego, escribe el vínculo de la imagen entre paréntesis ().
+
+## EJEMPLO
+![image](https://github.com/Camilo-Charry/ADSO-2900177/assets/161945579/2840cd25-7352-40ff-9ca9-6d4feea75762)
+
+
 
 
 
