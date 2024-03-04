@@ -85,7 +85,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## Enlaces de sección
 
-Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer 
+Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer.
+
+!.](img.jpg)
+
+
 
 
 
