@@ -87,7 +87,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer.
 
-!![image](https://github.com/Camilo-Charry/ADSO-2900177/assets/161945579/edc8a3b0-c552-46a0-9493-0698074cd981)
+![image](https://github.com/Camilo-Charry/ADSO-2900177/assets/161945579/edc8a3b0-c552-46a0-9493-0698074cd981)
+
+## Vínculos relativos
+
+Puedes especificar enlaces relativos y rutas de imagen en los archivos presentados para ayudar a que los lectores se dirijan a otros archivos de tu repositorio.
+Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, si tiene un archivo Léame en la raíz del repositorio y tiene otro archivo en docs/CONTRIBUTING.md, el vínculo relativo a CONTRIBUTING.md en el archivo Léame podría tener este aspecto:
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 
