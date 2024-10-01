@@ -1,0 +1,12 @@
+input.input{    
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: 100ms;
+}
+input.input:focus{
+    border: 1px solid black;
+    box-shadow: 0px 0px 5px black;
+}
+input.input:hover {  
+    background-color: rgb(161, 161, 161);
+}
