@@ -10,17 +10,17 @@ include 'libreria/medidas.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>areas</title>
+    <title>Areas</title>
 </head>
 <body>
     <?php
     
-        $ladoCuadrado= new Medidas(3);
+        $ladoCuadrado= new Medidas(5);
 
-        $baseTriangulo= new Medidas(8);
-        $alturaTriangulo= new Medidas(5);
+        $baseTriangulo= new Medidas(10);
+        $alturaTriangulo= new Medidas(8);
 
-        $baseRectangulo= new Medidas(8);
+        $baseRectangulo= new Medidas(10);
         $alturaRectangulo= new Medidas(5);
         
         $cuadrado= new cuadrado($ladoCuadrado);

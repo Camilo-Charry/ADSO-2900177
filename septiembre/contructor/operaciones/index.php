@@ -10,15 +10,15 @@ include 'libreria/numero.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operaciones</title>
+    <title>Operaciones Cha</title>
 </head>
 <body>
     <h2>Operaciones</h2>
     <?php 
     
-    $numUno= new Numero(6);
+    $numUno= new Numero(9);
 
-    $numDos= new Numero(7);
+    $numDos= new Numero(3);
 
     $operar= new Operaciones(
         $numUno,
