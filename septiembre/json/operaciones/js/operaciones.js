@@ -6,8 +6,8 @@ function realizarTodasOperaciones(){
             'content-Type':'application/json'
         },
         body: JSON.stringify({
-            numero1: 24,
-            numero2: 12
+            numero1: 32,
+            numero2: 17
         })
     })
     .then(response => response.json())

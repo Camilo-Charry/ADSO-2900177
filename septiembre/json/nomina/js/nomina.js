@@ -8,8 +8,8 @@ function realizarTodasOperaciones(){
             'content-Type':'application/json'
         },
         body: JSON.stringify({
-            diasTrabajados: 32,
-            valorDias: 60000
+            diasTrabajados: 41,
+            valorDias: 90000
         })
     })
     .then(response => response.json())

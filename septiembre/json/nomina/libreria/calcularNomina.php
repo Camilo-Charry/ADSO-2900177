@@ -5,13 +5,13 @@
     include('persona.php');
 
     $persona= new persona(
-        "jesus",
-        "fierro"
+        "Camilo",
+        "Charry"
     );
 
-    $valorDias= new valores(60000);
+    $valorDias= new valores(90000);
 
-    $diasTrabajados= new valores(32);
+    $diasTrabajados= new valores(41);
 
     
 

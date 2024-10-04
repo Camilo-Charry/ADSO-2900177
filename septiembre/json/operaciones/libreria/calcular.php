@@ -3,9 +3,9 @@
     include('numero.php');
     include('operaciones.php');
 
-    $numUno= new Numero(24);
+    $numUno= new Numero(32);
 
-    $numDos= new Numero(12);
+    $numDos= new Numero(17);
 
     $operar= new Operaciones(
         $numUno,
