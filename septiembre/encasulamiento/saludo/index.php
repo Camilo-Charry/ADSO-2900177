@@ -4,7 +4,7 @@
 
     $saludar=new saludo();
 
-    $saludar->setSaludar('<h2>Hola Mundo</h2>');
+    $saludar->setSaludar('<h2>Hola Mundo :)</h2>');
     
 ?>
 
